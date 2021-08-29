@@ -5,7 +5,7 @@ The name of the program "Segrenner" is a combination of the words
 
 This program was created at the special request of my wife, who 
 runs the Milvo.pl online store, which contains only ecological 
-products (my wife is a bit eco-freak ). I had no idea for an 
+products (my wife is a bit "eco-freak" ). I had no idea for an 
 application that I wanted to write as part of exercises for 
 Android devices, so I consulted my wife and here it is.
 
@@ -33,7 +33,7 @@ i "scanner".
 
 Program ten powstał na specjalne życzenie mojej żony, 
 która prowadzi sklep internetowy Milvo.pl, na którym znajdują 
-się same ekologiczne produkty (żona to trochę taki eko-świr). 
+się same ekologiczne produkty (żona to trochę taki "eko-świr"). 
 Nie miałem pomysłu na aplikację, którą chciałem napisać w ramach 
 ćwiczeń na urządzenia z androidem, więc poradziłem się żony 
 i oto jest.
