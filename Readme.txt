@@ -1,5 +1,3 @@
-English
-
 The name of the program "Segrenner" is a combination of the words 
 "segregate" (the main idea was to segregate rubbish) and "scanner".
 
@@ -26,7 +24,7 @@ and creating mobile applications. I hope that maybe it will be useful
 to someone in sorting rubbish.
 
 
-Polski
+
 Nazwa programu "Segrenner" powstała z połączenia wyrazów 
 "segregować"(głównym założeniem była segregacja śmieci) 
 i "scanner".
